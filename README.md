@@ -1,4 +1,3 @@
-testing
 # Best Online Courses List for CS enthusiasts
 * It's good to do the courses in the order mentioned below.
 * Please feel free to update this list. 
